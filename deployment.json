@@ -1349,7 +1349,7 @@
     ]
   },
   "timezone": "browser",
-  "title": "Deployment's Dashboard",
+  "title": "Kubernetes Deployment Dashboard",
   "uid": "d2d49b2c",
   "version": 1
 }
