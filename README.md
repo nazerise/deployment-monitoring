@@ -1,5 +1,5 @@
 # deployment-monitoring
-Dashboard to monitor deploymnets of kubernetes cluster
+Dashboard to monitor deploymnets of kubernetes cluster in Grafana
 
 ![image](https://github.com/nazerise/deployment-monitoring/assets/94860981/12dbb321-2c16-4245-b875-520c85a41972)
 
